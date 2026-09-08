@@ -4,5 +4,6 @@
 <body>
     <outline text="Github Activity" title="Github Activity" type="rss" xmlUrl="https://github.com/M09Ic.private.atom?token=AG6TDCDENEYN37FDTKBZZJGCIC4WK" htmlUrl="https://github.com/"/>
     <outline title="HackerOne Hacker Activity" text="HackerOne Hacker Activity" htmlUrl="https://hackerone.com/hacktivity" xmlUrl="https://rsshub.app/hackerone/hacktivity" type="rss" />
+    <outline text="watchTowr Labs" title="watchTowr Labs" type="rss" xmlUrl="https://labs.watchtowr.com/rss/" htmlUrl="https://labs.watchtowr.com/"/>
 </body>
 </opml>
