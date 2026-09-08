@@ -1,4 +1,4 @@
-repo: https://github.com/chainreactors/picker
+repo: https://github.com/Lunax0/picker
 # Save all articles as markdown files (independent of AI features)
 save_articles_markdown: true
 proxy:
